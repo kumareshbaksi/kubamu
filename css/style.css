@@ -373,6 +373,10 @@ header .user img{
     text-align: center;
   }
 
+  #email_lowercase{
+      text-transform: lowercase;
+  }
+
   .social{
       margin-top: 20px;
   }
