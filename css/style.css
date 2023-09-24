@@ -386,6 +386,17 @@ header .user img{
       font-size: small;
       
   }
+  .footer a{
+    color: #fff;
+    font-size: small;
+    text-decoration-line: underline;
+  }
+
+  .innoraft_link {
+    color: #fff;
+    font-size: 2rem;
+    text-decoration-line: underline;
+  }
 
 
  /* Media quries */
